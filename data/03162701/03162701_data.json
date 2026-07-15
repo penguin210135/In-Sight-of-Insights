@@ -1,0 +1,2970 @@
+{
+    "comment": "",
+    "contest": "實驗測試 03162701",
+    "createTime": "Mon, 21 Apr 2025 10:58:29 GMT",
+    "events": [{
+            "duration": 154,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                }
+            ],
+            "startFrame": 286,
+            "firebaseKey": "-OQ3dMZ5wQW5IynPFeQe"
+        },
+        {
+            "duration": 155,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "單手擾亂",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "兩拳組合",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 286,
+            "firebaseKey": "-OQ3dMjZaGJHP0EoRJPx"
+        },
+        {
+            "duration": 140,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "D"
+                }
+            ],
+            "startFrame": 470,
+            "firebaseKey": "-OPixmlcerZDs2pcOD1u"
+        },
+        {
+            "duration": 140,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "直接攻擊",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "兩拳組合",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 470,
+            "firebaseKey": "-OPixmvWbDqjTuB8GUU3"
+        },
+        {
+            "duration": 195,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                }
+            ],
+            "startFrame": 791,
+            "firebaseKey": "-OPixn1B7-w5fOtKWOjF"
+        },
+        {
+            "duration": 195,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "誘敵",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "連續組合拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手擺拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 791,
+            "firebaseKey": "-OPixnB9TFDOuTNuTZ2F"
+        },
+        {
+            "duration": 194,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "反擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 792,
+            "firebaseKey": "-OPixnESc0yvR133qPhZ"
+        },
+        {
+            "duration": 178,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "F"
+                }
+            ],
+            "startFrame": 1059,
+            "firebaseKey": "-OQ3f4mVLdwGDBe6Q-Ko"
+        },
+        {
+            "duration": 178,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "F"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "直接攻擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "連續長拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 1059,
+            "firebaseKey": "-OQ3f4sLJQ-kHb2kXy1-"
+        },
+        {
+            "duration": 177,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "反擊",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手擺拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 1060,
+            "firebaseKey": "-OQ3f9Br9ZzGpdN-RQ9y"
+        },
+        {
+            "duration": 188,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "H"
+                }
+            ],
+            "startFrame": 1392,
+            "firebaseKey": "-OPixnHhEawsobVw-1dl"
+        },
+        {
+            "duration": 188,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "H"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "身體擺動",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "連續組合拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手擺拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手擺拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手擺拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手擺拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 1392,
+            "firebaseKey": "-OPixnRPtmfW2EbuwIbV"
+        },
+        {
+            "duration": 188,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "H"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "直接攻擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "單一攻擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "反擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手擺拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 1392,
+            "firebaseKey": "-OPixnU_OPSsNc_a_tz7"
+        },
+        {
+            "duration": 209,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                }
+            ],
+            "startFrame": 2089,
+            "firebaseKey": "-OPixnnb0jzcq7leUzpc"
+        },
+        {
+            "duration": 210,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "單手擾亂",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "兩拳組合",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 2089,
+            "firebaseKey": "-OPixnu7aI47ARj0Cgzv"
+        },
+        {
+            "duration": 209,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "反擊",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手擺拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 2089,
+            "firebaseKey": "-OPixnxVxf6J5zLB7966"
+        },
+        {
+            "duration": 178,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": ""
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "H"
+                }
+            ],
+            "startFrame": 2289,
+            "firebaseKey": "-OPixo-oYzONYmRlpZM1"
+        },
+        {
+            "duration": 178,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "H"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "腳步跳動",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "兩拳組合",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 2289,
+            "firebaseKey": "-OPixo3G6ykBBD4OpyKX"
+        },
+        {
+            "duration": 140,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                }
+            ],
+            "startFrame": 2853,
+            "firebaseKey": "-OPixoCz9k_g0rcNNI2C"
+        },
+        {
+            "duration": 140,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "前手直拳",
+                            "labelDuration": 12,
+                            "labelStart": 2910,
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "直接攻擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "單一攻擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 2853,
+            "firebaseKey": "-OPixoJRaAwuYZHW8c5d"
+        },
+        {
+            "duration": 235,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                }
+            ],
+            "startFrame": 2965,
+            "firebaseKey": "-OQ3io-uIQFL-rZLbLIr"
+        },
+        {
+            "duration": 235,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "直接攻擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "兩拳組合",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "兩波攻擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 2965,
+            "firebaseKey": "-OQ3ioCEiuecgXUFjj1l"
+        },
+        {
+            "duration": 236,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "反擊",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手擺拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手擺拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 2965,
+            "firebaseKey": "-OQ3io_DV3l2MlV4QYaE"
+        },
+        {
+            "duration": 216,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "D"
+                }
+            ],
+            "startFrame": 3434,
+            "firebaseKey": "-OQ3ji5YLkeaYN9ezsUH"
+        },
+        {
+            "duration": 216,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "G"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "衝刺步",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "連續組合拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手擺拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 3435,
+            "firebaseKey": "-OPixoTLff8gJVZ4r082"
+        },
+        {
+            "duration": 151,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "D"
+                }
+            ],
+            "startFrame": 3651,
+            "firebaseKey": "-OQ3lEm-I6WHnVdnmnx3"
+        },
+        {
+            "duration": 151,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "D"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "腳步跳動",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "兩拳組合",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 3651,
+            "firebaseKey": "-OQ3lErT58h25Ypc90KK"
+        },
+        {
+            "duration": 150,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "D"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "反擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 3651,
+            "firebaseKey": "-OQ3lFCr3cuc2uMBoVIB"
+        },
+        {
+            "duration": 128,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "D"
+                }
+            ],
+            "startFrame": 3808,
+            "firebaseKey": "-OQ3lkVimWlSiqDEDlsE"
+        },
+        {
+            "duration": 128,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "D"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "直接攻擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "單一攻擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 3808,
+            "firebaseKey": "-OQ3lkesPwZk2XRA6IQW"
+        },
+        {
+            "duration": 236,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "B"
+                }
+            ],
+            "startFrame": 4232,
+            "firebaseKey": "-OQ3mOcfuu-6KtIf7UFe"
+        },
+        {
+            "duration": 236,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "H"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "直接攻擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "連續組合拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手鉤拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "兩波攻擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 4232,
+            "firebaseKey": "-OQ3mOi80npGxniPXjJ4"
+        },
+        {
+            "duration": 236,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "H"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "誘敵",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "連續組合拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手鉤拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手擺拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "兩波攻擊",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手擺拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手擺拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 4232,
+            "firebaseKey": "-OQ3mP1BBbb2aR7b9eQR"
+        },
+        {
+            "duration": 114,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                }
+            ],
+            "startFrame": 4628,
+            "firebaseKey": "-OQ3n8URnHMy5Mk1EKBz"
+        },
+        {
+            "duration": 114,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "直接攻擊",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "兩拳組合",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 4628,
+            "firebaseKey": "-OQ3n8_BP7pTc_5fPLk1"
+        },
+        {
+            "duration": 438,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "A"
+                }
+            ],
+            "startFrame": 4758,
+            "firebaseKey": "-OPixo_Gp4G2Acwt1J0m"
+        },
+        {
+            "duration": 439,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "A"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "身體擺動",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "兩拳組合",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "反擊",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手鉤拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手擺拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手擺拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手鉤拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "兩波攻擊",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 4758,
+            "firebaseKey": "-OPixok-c9O9ymiKs4Xj"
+        },
+        {
+            "duration": 439,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "A"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "直接攻擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "單一攻擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "兩波攻擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "反擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "兩波攻擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 4758,
+            "firebaseKey": "-OPixonW_rMYwYQ6GaF2"
+        },
+        {
+            "duration": 279,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                }
+            ],
+            "startFrame": 5898,
+            "firebaseKey": "-OPixpGOh7b7Lp7QLWjw"
+        },
+        {
+            "duration": 279,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "腳步跳動",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "連續組合拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手擺拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手擺拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "反擊",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 5898,
+            "firebaseKey": "-OPixpJb6FlKAbZ8wnal"
+        },
+        {
+            "duration": 279,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "G"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "迎擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "兩波攻擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 5898,
+            "firebaseKey": "-OPixpQ5q_gPHiNLYoYG"
+        },
+        {
+            "duration": 146,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                }
+            ],
+            "startFrame": 6484,
+            "firebaseKey": "-OPixpTVsXbmPXcKccEf"
+        },
+        {
+            "duration": 146,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "單手擾亂",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "兩拳組合",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 6484,
+            "firebaseKey": "-OPixpWelmKOaKs2eOLL"
+        },
+        {
+            "duration": 260,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "短"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                }
+            ],
+            "startFrame": 6709,
+            "firebaseKey": "-OPixpigzE0tfyFOsBTt"
+        },
+        {
+            "duration": 260,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "短"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "直接攻擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "兩拳組合",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "抱人",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 6709,
+            "firebaseKey": "-OPixplwbqnxsmsRbcOZ"
+        },
+        {
+            "duration": 260,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "短"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "直接攻擊",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "連續組合拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手擺拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "兩波攻擊",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手鉤拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手鉤拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 6709,
+            "firebaseKey": "-OPixpvld-sE--KGa4dL"
+        },
+        {
+            "duration": 133,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "D"
+                }
+            ],
+            "startFrame": 7315,
+            "firebaseKey": "-OPixqEEUXvpXgj3iQwo"
+        },
+        {
+            "duration": 133,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "D"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "單手擾亂",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "單一攻擊",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 7315,
+            "firebaseKey": "-OPixqHZ58px4e0OaT8M"
+        },
+        {
+            "duration": 140,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                }
+            ],
+            "startFrame": 7618,
+            "firebaseKey": "-OQ3qn8SUBkBamEA5TiE"
+        },
+        {
+            "duration": 141,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "C"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "腳步跳動",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "兩拳組合",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 7618,
+            "firebaseKey": "-OQ3qnIbeFOhre6LzsnR"
+        },
+        {
+            "duration": 180,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "I"
+                }
+            ],
+            "startFrame": 7895,
+            "firebaseKey": "-OPixqY64ly_WXVHLAd0"
+        },
+        {
+            "duration": 180,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "I"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "直接攻擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "追擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 7895,
+            "firebaseKey": "-OPixqh1y3gRNIVcqYnf"
+        },
+        {
+            "duration": 180,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "反擊",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手擺拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 7896,
+            "firebaseKey": "-OPixqkRPAbjihpbLjOy"
+        },
+        {
+            "duration": 418,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "A"
+                }
+            ],
+            "startFrame": 8469,
+            "firebaseKey": "-OPixrE2F6sRoaYFciGC"
+        },
+        {
+            "duration": 417,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "B"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "直接攻擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "連續長拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "反擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 8469,
+            "firebaseKey": "-OPixrHb9ReR0IXs8cVU"
+        },
+        {
+            "duration": 417,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "單手擾亂",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "兩拳組合",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手擺拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "兩波攻擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手擺拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "前手擺拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 8470,
+            "firebaseKey": "-OPixrL099UcGjzIump2"
+        },
+        {
+            "duration": 192,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                }
+            ],
+            "startFrame": 9309,
+            "firebaseKey": "-OPixrtv0X9ylosL6aWD"
+        },
+        {
+            "duration": 192,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "單手擾亂",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "單一攻擊",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 9309,
+            "firebaseKey": "-OPixrxI7Vi1km9HNZaS"
+        },
+        {
+            "duration": 192,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "F"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "後手直拳",
+                            "labelDuration": 12,
+                            "labelStart": 9459,
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "單手擾亂",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "單一攻擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 9309,
+            "firebaseKey": "-OPixs-hep0fpydkW_uK"
+        },
+        {
+            "duration": 272,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "H"
+                }
+            ],
+            "startFrame": 9835,
+            "firebaseKey": "-OPixs9dGyfPcsE-RQIe"
+        },
+        {
+            "duration": 273,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "H"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "衝刺步",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "單一攻擊",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手擺拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "抱人",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "夾手",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 9835,
+            "firebaseKey": "-OPixsD0zVTVXixzrnYn"
+        },
+        {
+            "duration": 272,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "中"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "H"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "前手直拳",
+                            "labelDuration": 12,
+                            "labelStart": 9656,
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "迎擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手擺拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "抱人",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 9836,
+            "firebaseKey": "-OPixsGbW-h86pc_k4D6"
+        },
+        {
+            "duration": 149,
+            "eventType": "一波攻擊",
+            "labels": [{
+                    "name": "主動方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "得分優勢方",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "回合數",
+                    "type": "回合數",
+                    "value": "第一回合"
+                },
+                {
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                }
+            ],
+            "startFrame": 10463,
+            "firebaseKey": "-OPixsQiG8TmyWhuWHWv"
+        },
+        {
+            "duration": 149,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "6KJwHiT3MR"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "直接攻擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "單一攻擊",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        },
+                        {
+                            "label": "後手直拳",
+                            "playerId": "6KJwHiT3MR",
+                            "playerInfo": "藍方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 10463,
+            "firebaseKey": "-OPixsTzjw1Kd3pXssDh"
+        },
+        {
+            "duration": 149,
+            "eventType": "選手動作",
+            "labels": [{
+                    "name": "攻擊距離",
+                    "type": "攻擊距離",
+                    "value": "長"
+                },
+                {
+                    "name": "位置",
+                    "type": "位置",
+                    "value": "E"
+                },
+                {
+                    "name": "選手",
+                    "type": "選手",
+                    "value": "Hqk6P90JvE"
+                },
+                {
+                    "name": "選手順序",
+                    "type": "選手順序",
+                    "value": [{
+                            "label": "腳步跳動",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "單一攻擊",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        },
+                        {
+                            "label": "前手直拳",
+                            "playerId": "Hqk6P90JvE",
+                            "playerInfo": "紅方"
+                        }
+                    ]
+                }
+            ],
+            "startFrame": 10464,
+            "firebaseKey": "-OPixsXPsL5i0zu6p-Ys"
+        }
+    ],
+    "frameRate": "59.940",
+    "gender": "女子組",
+    "info": {
+        "team1": {
+            "members": [
+                "Hqk6P90JvE"
+            ],
+            "name": "Player0(Test)"
+        },
+        "team2": {
+            "members": [
+                "6KJwHiT3MR"
+            ],
+            "name": "Player1(Test)"
+        }
+    },
+    "labeluid": "ZA9DTu0NBlcIWFHbVgLe6106lmb2",
+    "matchGroup": "成年",
+    "name": "2025實驗測試 03162701-成年女子組-63公斤級, Player0(Test) VS Player1(Test)",
+    "sets": {
+        "score": {
+            "team1": 0,
+            "team2": 0
+        },
+        "sets": {
+            "score": [{
+                    "team1": [
+                        10,
+                        10,
+                        10,
+                        10,
+                        10
+                    ],
+                    "team2": [
+                        10,
+                        10,
+                        10,
+                        10,
+                        10
+                    ]
+                },
+                {
+                    "team1": [
+                        10,
+                        10,
+                        10,
+                        10,
+                        10
+                    ],
+                    "team2": [
+                        10,
+                        10,
+                        10,
+                        10,
+                        10
+                    ]
+                },
+                {
+                    "team1": [
+                        10,
+                        10,
+                        10,
+                        10,
+                        10
+                    ],
+                    "team2": [
+                        10,
+                        10,
+                        10,
+                        10,
+                        10
+                    ]
+                }
+            ]
+        }
+    },
+    "weight": "63",
+    "year": "2025"
+}
