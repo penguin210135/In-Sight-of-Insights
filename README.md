@@ -1,6 +1,6 @@
 # In Sight of Insights
 
-**In Sight of Insights: Virtual Representation of Boxing for Interactive Viewpoint in Tactical Analysis through 3D Human Motion Reconstruction**
+**In Sight of Insights: Virtual Representation of Boxing for Interactive Viewpoint in Tactical Analysis through 3D Human Motion Reconstruction (TVCG 2026)**
 
 This repository accompanies the paper source and public dataset for **In Sight of Insights**, a desktop immersive analytics system for boxing tactical analysis. The project explores how reconstructed 3D match scenes, free-viewpoint interaction, and embedded tactical annotations can help coaches and athletes review combat-sport matches beyond the limits of fixed-camera video.
 
@@ -8,11 +8,9 @@ This repository accompanies the paper source and public dataset for **In Sight o
 
 ## Teaser Video
 
-A short teaser video summarizing the motivation, system, and results of **In Sight of Insights**:
+[![Watch the teaser video](docs/images/teaser.png)](https://github.com/penguin210135/In-Sight-of-Insights/blob/main/Teaser%20Video.mp4)
 
-<video src="Teaser%20Video.mp4" controls width="100%" poster="docs/images/teaser.png">
-  Your browser does not support the video tag. You can download the teaser video directly: <a href="Teaser%20Video.mp4">Teaser Video.mp4</a>
-</video>
+Click the image above (or [this link](https://github.com/penguin210135/In-Sight-of-Insights/blob/main/Teaser%20Video.mp4)) to watch a short teaser video summarizing the motivation, system, and results of **In Sight of Insights**.
 
 ## Paper Core Insight
 
@@ -79,8 +77,6 @@ Each match folder may include:
 ## Citation
 
 This work has been published in **IEEE Transactions on Visualization and Computer Graphics (TVCG)**. Please cite the paper when using the dataset, figures, or code.
-
-> T.-H. Tsai, P.-H. Han, K.-T. Wang, S.-H. Chen, M.-C. Hu, W.-H. Chiu, and H.-K. Chu, "In Sight of Insights: Virtual Representation of Boxing for Interactive Viewpoint in Tactical Analysis through 3D Human Motion Reconstruction," *IEEE Transactions on Visualization and Computer Graphics*, 2026, doi: [10.1109/TVCG.2026.3747525](https://doi.org/10.1109/TVCG.2026.3747525).
 
 ```bibtex
 @ARTICLE{11755489,
