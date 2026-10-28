@@ -70,12 +70,19 @@ Each match folder may include:
 
 ## Citation
 
-The manuscript is included as source material in this repository snapshot. Please cite the paper when using the dataset or figures. A finalized BibTeX entry can be added here once publication metadata is available.
+This work has been published in **IEEE Transactions on Visualization and Computer Graphics (TVCG)**. Please cite the paper when using the dataset, figures, or code.
+
+> T.-H. Tsai, P.-H. Han, K.-T. Wang, S.-H. Chen, M.-C. Hu, W.-H. Chiu, and H.-K. Chu, "In Sight of Insights: Virtual Representation of Boxing for Interactive Viewpoint in Tactical Analysis through 3D Human Motion Reconstruction," *IEEE Transactions on Visualization and Computer Graphics*, 2026, doi: [10.1109/TVCG.2026.3747525](https://doi.org/10.1109/TVCG.2026.3747525).
 
 ```bibtex
-@misc{tsai2026insight,
-  title  = {In Sight of Insights: Virtual Representation of Boxing for Interactive Viewpoint in Tactical Analysis through 3D Human Motion Reconstruction},
-  author = {Tsung-Hsun Tsai and Kai-Ting Wang and Sheng-Ho Chen and Min-Chun Hu and Ping-Hsuan Han and Wen-Hsin Chiu and Hung-Kuo Chu},
-  year   = {2026}
-}
+@ARTICLE{11755489,
+  author={Tsai, Tsung-Hsun and Han, Ping-Hsuan and Wang, Kai-Ting and Chen, Sheng-Ho and Hu, Min-Chun and Chiu, Wen-Hsin and Chu, Hung-Kuo},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
+  title={In Sight of Insights: Virtual Representation of Boxing for Interactive Viewpoint in Tactical Analysis through 3D Human Motion Reconstruction},
+  year={2026},
+  volume={},
+  number={},
+  pages={1-11},
+  keywords={Visualization;Videos;Sports;Labeling;Cameras;Computers;Conferences;Annotations;Punching;Broadcasting;Boxing analysis;immersive visualization;tactical observation;human mesh reconstruction;sports analysis},
+  doi={10.1109/TVCG.2026.3747525}}
 ```
