@@ -8,9 +8,9 @@ This repository accompanies the paper source and public dataset for **In Sight o
 
 ## Teaser Video
 
-[![Watch the teaser video](docs/images/teaser.png)](https://github.com/penguin210135/In-Sight-of-Insights/blob/main/Teaser%20Video.mp4)
+[![Watch the teaser video](https://img.youtube.com/vi/PHmCFhbExvI/maxresdefault.jpg)](https://youtu.be/PHmCFhbExvI)
 
-Click the image above (or [this link](https://github.com/penguin210135/In-Sight-of-Insights/blob/main/Teaser%20Video.mp4)) to watch a short teaser video summarizing the motivation, system, and results of **In Sight of Insights**.
+Click the image above (or [this link](https://youtu.be/PHmCFhbExvI)) to watch a short teaser video summarizing the motivation, system, and results of **In Sight of Insights**.
 
 ## Paper Core Insight
 
