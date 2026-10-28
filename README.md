@@ -6,6 +6,14 @@ This repository accompanies the paper source and public dataset for **In Sight o
 
 ![System teaser](docs/images/teaser.png)
 
+## Teaser Video
+
+A short teaser video summarizing the motivation, system, and results of **In Sight of Insights**:
+
+<video src="Teaser%20Video.mp4" controls width="100%" poster="docs/images/teaser.png">
+  Your browser does not support the video tag. You can download the teaser video directly: <a href="Teaser%20Video.mp4">Teaser Video.mp4</a>
+</video>
+
 ## Paper Core Insight
 
 Boxing scouting is still largely driven by repeated video replay, manual event annotation, and separately prepared statistical charts. This workflow makes it difficult to understand tactical details that depend on spatial relationships, such as distance control, athlete posture, ring position, offensive initiative, and interactions hidden by occlusion.
